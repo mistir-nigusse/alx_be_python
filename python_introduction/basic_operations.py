@@ -1,5 +1,5 @@
 number1 = 10
-number2= 5
+number2 = 5
 addition_result = number1 + number2
 subtraction_result = number1 - number2
 multiplication_result = number1 * number2
